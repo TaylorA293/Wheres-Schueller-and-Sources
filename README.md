@@ -8,17 +8,17 @@
   - **Link:** [https://www.ncei.noaa.gov/](https://www.climate.gov/maps-data/data-snapshots/data-source/temperature-us-monthly-average?=Temperature)
   - **Description:** Has many Weather, Ocean, and Climate datasets.
   - **Project Idea:** Can analyze long-term temperature and precipitation due to global warming.
-    <br><br>
+  <br><br>
 - **US Census Data**
   - **Link:** [https://data.census.gov/](https://data.census.gov/all?q=income+and+poverty)
   - **Description:** Has data on Demographic, Economic, and Geographic data in the United States.
   - **Project Idea:** Can explore income inequality across different states, or the different levels of poverty across the states.
-    <br><br>
+  <br><br>
 - **NBA Stats**
   - **Link:** [https://www.nba.com/stats/](https://www.nba.com/stats)
   - **Description:** Has data on individual Player Stats, Game Outcomes, and Historical Performance.
   - **Project Idea:** Try to predict the MVP race using the given stats on the website.
-   <br><br>
+  <br><br>
 - **L.A. Open Data Portal** 
   - **Link:** [https://data.lacity.org/](https://data.lacity.org/)
   - **Description:** Explore the data on Crime, Traffic, Environment, and City Operations.
@@ -26,11 +26,11 @@
   <br><br>
 
 ### Where's Schueller...?
-  <iframe 
-  src="schueller_map2.html"
-  width="100%"
-  height="600"
-  style="border:none;">
+<iframe src="schueller_map2.html" width="100%" height="600" style="border:none;"></iframe>
+
+<iframe src="schueller_map.html" width="100%" height="600" style="border:none;"></iframe>
+
+  
 
  
 
