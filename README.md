@@ -24,3 +24,11 @@
   - **Description:** Explore the data on Crime, Traffic, Environment, and City Operations.
   - **Project Idea:** Map the areas with high traffic against crash reports, and see how the data merges.
   <br><br>
+
+
+  <iframe 
+  src="schueller_map.html"
+  width="100%"
+  height="600"
+  style="border:none;">
+</iframe>
