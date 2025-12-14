@@ -27,15 +27,11 @@
 
 ### Where's Schueller...?
   <iframe 
-  src="schueller_map.html"
-  width="100%"
-  height="600"
-  style="border:none;">
-
- <iframe 
   src="schueller_map2.html"
   width="100%"
   height="600"
   style="border:none;">
+
+ 
 
 
