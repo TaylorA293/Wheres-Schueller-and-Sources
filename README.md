@@ -30,7 +30,7 @@
 
 <iframe src="schueller_map.html" width="100%" height="600" style="border:none;"></iframe>
 
-<br><br>
+<br>
 ### An Analysis of GDP and Its Correlation with Population
 ### [Open Webpage](https://taylora293.github.io/Homework-6-Portfolio/)
 This link takes you to a webpage that shows the relationship between population growth and GDP per capita in several countries. This was done to explore whether population size correlates with economic performance and investigate if it indicates quality of life. Using datasets from Our World in Data, population and GDP per capita data were merged, cleaned, and visualized with dual-axis graphs for country-specific trends. 
